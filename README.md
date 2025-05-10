@@ -20,6 +20,7 @@ Engenheiro de Software em formação, com foco em Desenvolvimento Full Stack. At
 ### Metas de Estudo 🎯
 - Next.JS
 - Go
+- Tailwind CSS
 - Inteligência Artificial
 
 ---
@@ -46,6 +47,7 @@ Software Engineer in training with a focus on Full Stack Development. Currently 
 ### Learning Goals 🎯
 - Next.js
 - Go
+- Tailwind CSS
 - Artificial Intelligence
 
 
