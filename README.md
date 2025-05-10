@@ -1,11 +1,53 @@
-### Bem vindo(a)!
+### Bem vindo(a)! 👋
 
-Futuro Engenheiro de Software com foco em Desenvolvimento Front-end. Apesar disso, possuo bastante interesse em conhecer mais sobre a área de dados, faço parte de um grupo de estudos voltado para Inteligência Artificial e Machine Learning. Atuo como desenvolvedor dentro do Programa de Educação Tutorial da Universidade Federal do Ceará no Campus de Russas, onde sou bolsista há 1 ano e meio. Tenho experiência com Python, C, Java, HTML, CSS, JavaScript, TypeScript e Angular. Gosto de trabalhar em equipe, sou esforçado e proativo, busco estar agregando ainda mais o meu conhecimento frequentemente e estou sempre aberto a novas oportunidades que possam surgir. 
+Engenheiro de Software em formação, com foco em Desenvolvimento Full Stack. Atualmente atuo como Desenvolvedor Full Stack na Realize Software, onde colaboro em projetos utilizando tecnologias como React, Node.js, React Native, TypeScript, HTML, CSS e JavaScript. Possuo forte espírito de equipe, sou proativo e comprometido com a melhoria contínua. Tenho grande interesse em compartilhar conhecimento, aprender novas tecnologias e contribuir para o crescimento coletivo. Estou sempre em busca de oportunidades que desafiem minhas habilidades e impulsionem meu desenvolvimento pessoal e profissional.
 
-===============================================
+### Competências
+
+| Soft Skills              | Hard Skills            |
+|--------------------------|------------------------|
+| Liderança                | React e React Native   |
+| Trabalho em Equipe       | TypeScript e JavaScript|
+| Proatividade             | Axios                  |
+| Dedicação                | Node.js                |
+| Resiliência Emocional    | Express                |
+| Comunicação Assertiva    | PrismaORM              |
+| Aprendizado Contínuo     | PostgreSQL             |
+| Compartilhamento de saber| Python                 |
+| Extrovertido             | English – C1 (CEFR)    |
+
+  
+#### Metas de Estudo 🎯
+- Next.JS
+- Go
+- Inteligência Artificial
+
+---
+
 ### Welcome 👋
 
-Future Software Engineer focusing on Front-end Development. Nevertheless, I have a keen interest in exploring more about the data field; I am part of a study group focused on Artificial Intelligence and Machine Learning. I work as a developer within the Programa de Educação Tutorial at the Federal University of Ceará in Russas Campus, where I have been a scholarship holder for 1 and a half years. I have experience with Python, C, Java, HTML, CSS, JavaScript, TypeScript, and Angular. I enjoy working in teams, I am diligent and proactive. I constantly seek to enhance my knowledge and am always open to new opportunities that may arise.
+Software Engineer in training with a focus on Full Stack Development. Currently working as a Full Stack Developer at Realize Software, contributing to projects using technologies such as React, Node.js, React Native, TypeScript, HTML, CSS, and JavaScript. I am a strong team player, proactive, and committed to continuous improvement. Passionate about knowledge sharing, learning new technologies, and contributing to collective growth. I am always looking for opportunities that challenge my skills and drive my personal and professional development.
+
+### Skills
+
+| Soft Skills              | Hard Skills            |
+|--------------------------|------------------------|
+| Leadership               | React e React Native   |
+| Teamwork                 | TypeScript e JavaScript|
+| Proactivity              | Axios                  |
+| Dedication               | Node.js                |
+| Emotional Resilience     | Express                |
+| Assertive Communication  | PrismaORM              |
+| Continuous Learning      | PostgreSQL             |
+| Knowledge Sharing        | Python                 |
+| Sociability              | English – C1 (CEFR)    |
+
+
+#### Learning Goals 🎯
+- Next.js
+- Go
+- Artificial Intelligence
+
 
 <!--
 **GNovaisL/GNovaisL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
