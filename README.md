@@ -17,7 +17,7 @@ Engenheiro de Software em formação, com foco em Desenvolvimento Full Stack. At
 | Extrovertido             | English – C1 (CEFR)    |
 
   
-#### Metas de Estudo 🎯
+### Metas de Estudo 🎯
 - Next.JS
 - Go
 - Inteligência Artificial
@@ -43,7 +43,7 @@ Software Engineer in training with a focus on Full Stack Development. Currently 
 | Sociability              | English – C1 (CEFR)    |
 
 
-#### Learning Goals 🎯
+### Learning Goals 🎯
 - Next.js
 - Go
 - Artificial Intelligence
